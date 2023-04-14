@@ -1,0 +1,357 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.heder{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+.card1{
+    width: 400px;
+    display: flex;
+    float: right;
+}
+h1{
+    width: 191px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #4A99D3;
+
+}
+.card2{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+.par1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0F001A;
+
+}
+.card3{
+    width: 150px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+.par2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0F001A;
+}
+.container1{
+    width: 100%;
+    height: 364.78px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EAF6FF;
+}
+.card4{
+    width: 600px;
+    align-items: center;
+    
+}
+h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+}
+button{
+    width: 575px;
+    height: 69px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:none;
+    border: 2px solid #FC0B0D;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.icon{
+    margin-top: 184px;
+}
+.container2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    align-items: center;
+
+}
+.card6{
+    width: 626px;
+    height: 303px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #FAFAFA;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.carda{
+    width: 280px;
+    height: 200px;
+    align-items: center;
+    
+    
+    
+}
+.card7{
+    width: 626px;
+    height: 303px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #FAFAFA;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29.65px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.par4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20.65px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+
+}
+input{
+    width: 153px;
+    height: 48px;
+    align-items: center;
+    text-align: center;
+    background: #FC0B0D;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+
+}
+.View More{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.65px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+
+}
+.container3{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    
+    
+}
+.card8{
+    width: 308px;
+    height: 368px;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 12px rgba(0, 0, 0, 0.25);
+    align-items: center;
+    
+}
+.card9{
+    width: 300px;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+
+}
+.cardc{
+    width:200px ;
+    text-align: left;
+    
+}
+.cardd{
+    width: 80px ;
+    text-align: right;
+    margin-top: 30px;
+}
+h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.par5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #EB3223;
+}
+.par6{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+    opacity: 0.5;
+}
+.but1{
+    width: 40px;
+    height: 16px;
+    background: #F12B2C;
+    border-radius: 4px;
+    float: right;
+
+}
+.par7{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+    opacity: 0.5;
+}
+.img22{
+    margin-top: 10px;
+    margin-left: 20px;  
+}
+.container4{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+.card10{
+    width: 524px;
+    height: 2px;
+    border-top: 2px solid #E5E5E5;
+    margin-top: 30px;
+    
+}
+.but2{
+    width: 221px;
+    height: 70.25px;
+    background: #FFFFFF;
+    border: 1px solid #FC0B0D;
+    border-radius: 14.4439px;
+    margin-left: 120px;
+    
+}
+.container5{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    background: #EAF6FF;;
+}
+.card11{
+    width: 480px;
+    
+    
+}
+.fo{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    text-align:left;
+}
+.par8{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #504A41;
+
+}
+.fo1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+    margin: 10px;
+    text-align: center;
+}
+.card12{
+    width: 400px;
+    align-items: center;
+    text-align: center;
+
+}
+.carde{
+    width: 350px;
+    display: flex;
+    justify-content:flex-start;
+    margin-top: 15px;
+    
+   
+}
+.card13{
+    width: 200px;
+       
+}
+.par9{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+.cardm{
+
+  margin-top: 30px; 
+  
+}
